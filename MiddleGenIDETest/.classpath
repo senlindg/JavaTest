@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="src/lib/asm.jar"/>
+	<classpathentry kind="lib" path="src/lib/cglib-2.1.jar"/>
+	<classpathentry kind="lib" path="src/lib/commons-collections-2.1.1.jar"/>
+	<classpathentry kind="lib" path="src/lib/commons-dbcp-1.2.1.jar"/>
+	<classpathentry kind="lib" path="src/lib/commons-lang-2.0.jar"/>
+	<classpathentry kind="lib" path="src/lib/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="src/lib/commons-pool-1.2.jar"/>
+	<classpathentry kind="lib" path="src/lib/dom4j-1.6.jar"/>
+	<classpathentry kind="lib" path="src/lib/ehcache-1.1.jar"/>
+	<classpathentry kind="lib" path="src/lib/geronimo-spec-jta-1.0.1B-rc2.jar"/>
+	<classpathentry kind="lib" path="src/lib/hibernate3.jar"/>
+	<classpathentry kind="lib" path="src/lib/log4j-1.2.9.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/MySQL/Connector J 5.1.25/mysql-connector-java-5.1.25-bin.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
